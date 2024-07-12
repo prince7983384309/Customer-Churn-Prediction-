@@ -2,7 +2,7 @@
 This repository is all about curtomer churning behaviour prediction using machine learning.
 
 Question - what is Churn?
-Amswer - Churn, also known as customer attrition, refers to the rate at which customers stop doing business with a company over a given 
+Answer - Churn, also known as customer attrition, refers to the rate at which customers stop doing business with a company over a given 
          period. It's a critical metric for businesses, especially those with subscription-based models, as it directly impacts revenue and 
          growth.
          Example:
